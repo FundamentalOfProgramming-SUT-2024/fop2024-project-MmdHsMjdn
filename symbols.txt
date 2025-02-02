@@ -1,0 +1,61 @@
+/*
+M --> master key --> \u25B2
+h --> hidden door --> \u2022
+R --> locked pass door --> red @
+G --> unlocked pass door --> green @
++ --> door
+- --> wall
+| --> wall
+t --> traps --> \u2022 
+^ --> recognized traps
+o --> pillar
+& --> password
+# --> corridor
+g --> gold --> \u26c0
+b --> black gold --> \u26c2
+H --> Health enchant --> \u2695
+S --> Speed enchant --> \u26f7
+D --> Damage enchant --> \u2620
+d --> dagger --> \u2020
+w --> wand -->  \u269A
+a --> arrow --> \u27B3
+s --> sword --> \u2694
+f --> food --> \u2299
+floor --> \u2022
+< --> stair
+1 --> Deamon --> \U0001d507
+2 --> Fire breathing monster --> \U0001d509
+3 --> Giant --> \U0001D5A6
+4 --> Snake --> \U0001d516
+5 --> undeed --> \U0001d518
+6 --> secondery arrow
+7 --> secondery dagger
+8 --> secondery wand
+T --> treasure_room --> \U0001f5dd
+*/
+
+/*
+y --> left and up
+u --> right and up
+h --> left
+j --> up
+k --> down
+l--> right
+b -->left and down
+n --> right and down
+
+f --> move to a obstacle
+g --> don't pick up 
+s --> search around
+right arrow --> next floor
+i --> list  of ammos
+enter --> setting(exit, save and exit)
+M --> view the whole map
+E --> foods
+p --> password
+x --> enchants list
+space --> shot
+a --> last_shot
+*/
+
+
